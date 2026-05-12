@@ -1,6 +1,8 @@
 # flutter_application_weather
 
 A new Flutter project.
+A new Flutter project.
+Es una App basica que te deja cambiar de ciudades, basiquitas, no he encontrado ningún fallo, pero sí que me gustaría algún consejo sobre si pudiera hacer el codigo más corto o preciso.
 
 ## Getting Started
 
